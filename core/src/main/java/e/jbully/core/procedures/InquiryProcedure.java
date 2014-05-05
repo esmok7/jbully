@@ -85,7 +85,7 @@ public class InquiryProcedure {
 
         if (acceptedByAll) {
             NodeStateMachine.getInstance().markLeader();
-            log.info("Node is elected as leader and will continue to send ussd alive requests");
+            log.info("Node is elected as leader");
         }
     }
 

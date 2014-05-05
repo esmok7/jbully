@@ -12,6 +12,7 @@
 
     <modules>
         <module>core</module>
+        <module>transport/udp</module>
     </modules>
 
     <properties>

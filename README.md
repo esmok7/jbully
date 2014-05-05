@@ -7,6 +7,8 @@ Default communication over UDP. Modularized so that easy to extend to other comm
 
 Java version - 1.8
 
+Singleton class NodeStateMachine can be used to check the status of the election.
+
 Ref
 ===
 http://en.wikipedia.org/wiki/Bully_algorithm
